@@ -1,0 +1,225 @@
+route_no,state_name,route_name
+1,Bihar State Road Transport Corporation (BSRTC),Patna (Bihar) to Bettiah
+2,Bihar State Road Transport Corporation (BSRTC),Gopalganj (Bihar) to Delhi
+3,Bihar State Road Transport Corporation (BSRTC),Patna (Bihar) to Motihari
+4,Bihar State Road Transport Corporation (BSRTC),Delhi to Motihari
+5,Bihar State Road Transport Corporation (BSRTC),Bettiah to Patna (Bihar)
+6,Bihar State Road Transport Corporation (BSRTC),Motihari to Delhi
+7,Bihar State Road Transport Corporation (BSRTC),Patna (Bihar) to Balmiki Nagar (bihar)
+8,Bihar State Road Transport Corporation (BSRTC),Balmiki Nagar (bihar) to Patna (Bihar)
+10,Bihar State Road Transport Corporation (BSRTC),Patna (Bihar) to Katihar
+11,NORTH BENGAL STATE TRANSPORT CORPORATION,Kolkata to Siliguri
+12,NORTH BENGAL STATE TRANSPORT CORPORATION,Siliguri to Kolkata
+13,NORTH BENGAL STATE TRANSPORT CORPORATION,Siliguri to Darjeeling
+14,NORTH BENGAL STATE TRANSPORT CORPORATION,Kolkata to Raiganj
+15,NORTH BENGAL STATE TRANSPORT CORPORATION,Raiganj to Kolkata
+16,NORTH BENGAL STATE TRANSPORT CORPORATION,Kolkata to Malda
+17,NORTH BENGAL STATE TRANSPORT CORPORATION,Cooch Behar (West Bengal) to Berhampore (West Bengal)
+18,NORTH BENGAL STATE TRANSPORT CORPORATION,Kolkata to Cooch Behar (West Bengal)
+19,NORTH BENGAL STATE TRANSPORT CORPORATION,Malda to Kolkata
+21,WBTC (CTC),Durgapur (West Bengal) to Kolkata
+22,WBTC (CTC),Digha to Barasat (West Bengal)
+23,WBTC (CTC),Barasat (West Bengal) to Digha
+24,WBTC (CTC),Suri to Kolkata
+25,WBTC (CTC),Kolkata to Digha
+26,WBTC (CTC),Bolpur (West Bengal) to Kolkata
+27,WBTC (CTC),Kolkata to Suri
+28,WBTC (CTC),Digha to Kolkata
+29,WBTC (CTC),Kolkata to Durgapur (West Bengal)
+30,WBTC (CTC),Habra to Digha
+31,WBTC (CTC),Kolkata to Asansol (West Bengal)
+32,WBTC (CTC),Barasat (West Bengal) to Debra
+33,WBTC (CTC),Barasat (West Bengal) to Asansol (West Bengal)
+34,WBTC (CTC),Kolkata to Bakkhali
+35,WBTC (CTC),Barasat (West Bengal) to Nimtouri
+36,WBTC (CTC),Habra to Kolaghat
+37,WBTC (CTC),Habra to Durgapur (West Bengal)
+38,WBTC (CTC),Barasat (West Bengal) to Mechogram
+39,WBTC (CTC),Habra to Haldia
+40,WBTC (CTC),Habra to Contai (Kanthi)
+42,South Bengal State Transport Corporation (SBSTC),Burdwan to Kolkata
+43,South Bengal State Transport Corporation (SBSTC),Kolkata to Burdwan
+44,South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Kolkata
+45,South Bengal State Transport Corporation (SBSTC),Kolkata to Haldia
+46,South Bengal State Transport Corporation (SBSTC),Haldia to Kolkata
+47,South Bengal State Transport Corporation (SBSTC),Kolkata to Durgapur (West Bengal)
+48,South Bengal State Transport Corporation (SBSTC),Kolkata to Arambagh (West Bengal)
+49,South Bengal State Transport Corporation (SBSTC),Digha to Kolkata
+50,South Bengal State Transport Corporation (SBSTC),Kolkata to Digha
+51,South Bengal State Transport Corporation (SBSTC),Kolkata to Bankura
+52,South Bengal State Transport Corporation (SBSTC),Kolkata to Kirnahar (West Bengal)
+53,South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Bankura
+54,South Bengal State Transport Corporation (SBSTC),Siliguri to Malda
+55,South Bengal State Transport Corporation (SBSTC),Kolkata to Suri
+56,South Bengal State Transport Corporation (SBSTC),Purulia to Durgapur (West Bengal)
+57,PEPSU (Punjab),Patiala to Delhi
+58,PEPSU (Punjab),Delhi to Patiala
+59,PEPSU (Punjab),Ludhiana to Delhi
+60,PEPSU (Punjab),Delhi to Ludhiana
+61,PEPSU (Punjab),Phagwara to Delhi
+62,PEPSU (Punjab),Jalandhar to Delhi
+63,PEPSU (Punjab),Delhi to Jalandhar
+64,PEPSU (Punjab),Patiala to Delhi Airport
+65,PEPSU (Punjab),Jalandhar to Delhi Airport
+66,PEPSU (Punjab),Ludhiana to Delhi Airport
+67,PEPSU (Punjab),Chandigarh to Faridkot
+68,PEPSU (Punjab),Chandigarh to Patiala
+69,PEPSU (Punjab),Patiala to Delhi
+70,PEPSU (Punjab),Delhi to Patiala
+71,PEPSU (Punjab),Ludhiana to Delhi
+72,PEPSU (Punjab),Delhi to Ludhiana
+73,PEPSU (Punjab),Phagwara to Delhi
+74,PEPSU (Punjab),Jalandhar to Delhi
+75,PEPSU (Punjab),Delhi to Jalandhar
+76,PEPSU (Punjab),Patiala to Delhi Airport
+77,PEPSU (Punjab),Jalandhar to Delhi Airport
+78,PEPSU (Punjab),Ludhiana to Delhi Airport
+79,PEPSU (Punjab),Phagwara to Delhi Airport
+80,PEPSU (Punjab),Delhi Airport to Ludhiana
+81,PEPSU (Punjab),Delhi to Phagwara
+82,PEPSU (Punjab),Delhi to Amritsar
+83,PEPSU (Punjab),Amritsar to Delhi
+84,PEPSU (Punjab),Delhi Airport to Patiala
+85,PEPSU (Punjab),Amritsar to Delhi Airport
+86,PEPSU (Punjab),Kapurthala to Delhi
+87,PEPSU (Punjab),Delhi Airport to Jalandhar
+88,PEPSU (Punjab),Chandigarh to Bathinda
+89,PEPSU (Punjab),Chandigarh to Faridkot
+90,PEPSU (Punjab),Chandigarh to Patiala
+91,RSRTC,Jodhpur to Ajmer
+92,RSRTC,Beawar (Rajasthan) to Jaipur (Rajasthan)
+93,RSRTC,Udaipur to Jodhpur
+94,RSRTC,Jaipur (Rajasthan) to Jodhpur
+95,RSRTC,Sikar to Jaipur (Rajasthan)
+96,RSRTC,Kishangarh to Jaipur (Rajasthan)
+97,RSRTC,Aligarh (uttar pradesh) to Jaipur (Rajasthan)
+98,RSRTC,Jodhpur to Beawar (Rajasthan)
+99,RSRTC,Kota(Rajasthan) to Jaipur (Rajasthan)
+100,RSRTC,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+101,RSRTC,Jaipur (Rajasthan) to Kota(Rajasthan)
+102,RSRTC,Pali (Rajasthan) to Udaipur
+103,RSRTC,Udaipur to Pali (Rajasthan)
+104,RSRTC,Sikar to Bikaner
+105,RSRTC,Jaipur (Rajasthan) to Bharatpur
+106,RSRTC,Kishangarh to Jodhpur
+107,RSRTC,Jaipur (Rajasthan) to Bhilwara
+108,RSRTC,Kota(Rajasthan) to Udaipur
+109,RSRTC,Jaipur (Rajasthan) to Pilani
+110,RSRTC,Jaipur (Rajasthan) to Mathura
+111,RSRTC,Bikaner to Sikar
+112,HRTC,Delhi to Shimla
+113,HRTC,Shimla to Delhi
+114,HRTC,Manali to Chandigarh
+115,HRTC,Chandigarh to Manali
+116,HRTC,Delhi to Manali
+117,HRTC,Hamirpur (Himachal Pradesh) to Chandigarh
+118,HRTC,Delhi to Hamirpur (Himachal Pradesh)
+119,HRTC,Delhi to Chandigarh
+120,HRTC,Manali to Delhi
+121,HRTC,Hamirpur (Himachal Pradesh) to Delhi
+122,HRTC,Dalhousie to Delhi
+123,HRTC,Solan to Delhi
+124,HRTC,Delhi to Palampur
+125,HRTC,Dharamshala (Himachal Pradesh) to Delhi
+126,HRTC,Delhi to Solan
+127,HRTC,Chandigarh to Reckong Peo (Himachal Pradesh)
+128,HRTC,Manali to Shimla
+129,HRTC,Palampur to Delhi
+130,HRTC,Chandigarh to Kullu
+131,HRTC,Kangra to Chandigarh
+132,HRTC,Kullu to Chandigarh
+133,HRTC,Delhi to Kangra
+134,HRTC,Chamba (Himachal Pradesh) to Delhi
+135,HRTC,Palampur to Chandigarh
+136,HRTC,Chandigarh to Shimla
+137,HRTC,Chandigarh to Kangra
+138,HRTC,Delhi to Nalagarh
+139,HRTC,Baddi (Himachal Pradesh) to Delhi
+140,HRTC,Kangra to Delhi
+141,HRTC,Ghumarwin to Delhi
+142,HRTC,Delhi to Sarkaghat
+143,UPSRTC,Bareilly to Delhi
+144,UPSRTC,Aligarh (uttar pradesh) to Delhi
+145,UPSRTC,Delhi to Bareilly
+146,UPSRTC,Delhi to Aligarh (uttar pradesh)
+147,UPSRTC,Farrukhabad (Uttar Pradesh) to Delhi
+148,UPSRTC,Badaun to Delhi
+149,UPSRTC,Lucknow to Allahabad
+150,UPSRTC,Lucknow to Varanasi
+151,UPSRTC,Delhi to Badaun
+152,UPSRTC,Agra to Bareilly
+153,UPSRTC,Varanasi to Lucknow
+154,UPSRTC,Bareilly to Haridwar
+155,UPSRTC,Delhi to Agra
+156,UPSRTC,Delhi to Shahjahanpur (Uttar Pradesh)
+157,UPSRTC,Agra to Delhi
+158,UPSRTC,Lucknow to Ballia
+159,UPSRTC,Bareilly to Dehradun
+160,UPSRTC,Allahabad to Azamgarh
+161,UPSRTC,Kanpur (Uttar Pradesh) to Bareilly
+162,UPSRTC,Lucknow to Ayodhya
+163,UPSRTC,Aligarh (uttar pradesh) to Lucknow
+164,UPSRTC,Aligarh (uttar pradesh) to Agra
+165,UPSRTC,Lucknow to Haridwar
+166,UPSRTC,Lucknow to Kanpur (Uttar Pradesh)
+168,UPSRTC,Delhi to Etah (Uttar Pradesh)
+169,UPSRTC,Delhi to Kotdwar (Uttarakhand)
+170,UPSRTC,Allahabad to Varanasi
+171,UPSRTC,Delhi to Moradabad
+172,UPSRTC,Varanasi to Allahabad
+173,UPSRTC,Lucknow to Jaunpur
+174,UPSRTC,Aligarh (uttar pradesh) to Haridwar
+175,UPSRTC,Shahjahanpur (Uttar Pradesh) to Delhi
+176,UPSRTC,Lucknow to Azamgarh
+177,UPSRTC,Jaunpur to Lucknow
+178,UPSRTC,Kanpur (Uttar Pradesh) to Lucknow
+179,UPSRTC,Agra to Haridwar
+180,UPSRTC,Lucknow to Gorakhpur (uttar pradesh)
+181,UPSRTC,Delhi to Haldwani
+182,Chandigarh Transport Undertaking (CTU),Chandigarh to Delhi
+183,Chandigarh Transport Undertaking (CTU),Delhi to Chandigarh
+184,Chandigarh Transport Undertaking (CTU),Yamuna Nagar to Chandigarh
+185,Chandigarh Transport Undertaking (CTU),Chandigarh to Shimla
+186,Chandigarh Transport Undertaking (CTU),Chandigarh to Vrindavan
+187,Chandigarh Transport Undertaking (CTU),Chandigarh to Yamuna Nagar
+188,Chandigarh Transport Undertaking (CTU),Chandigarh to Sujanpur (himachal pradesh)
+189,Chandigarh Transport Undertaking (CTU),Ludhiana to Chandigarh
+190,Chandigarh Transport Undertaking (CTU),Hamirpur (Himachal Pradesh) to Chandigarh
+191,Chandigarh Transport Undertaking (CTU),Vrindavan to Chandigarh
+192,Chandigarh Transport Undertaking (CTU),Dharamshala (Himachal Pradesh) to Chandigarh
+193,Chandigarh Transport Undertaking (CTU),Chandigarh to Katra (jammu and kashmir)
+194,Chandigarh Transport Undertaking (CTU),Hisar (Haryana) to Chandigarh
+195,Chandigarh Transport Undertaking (CTU),Rohtak to Chandigarh
+196,Chandigarh Transport Undertaking (CTU),Chandigarh to Una (Himachal Pradesh)
+197,Chandigarh Transport Undertaking (CTU),Chandigarh to Jammu (j and k)
+198,Chandigarh Transport Undertaking (CTU),Chandigarh to Rohtak
+199,Chandigarh Transport Undertaking (CTU),Chandigarh to Manali
+201,Chandigarh Transport Undertaking (CTU),Jawala Ji to Chandigarh
+202,Chandigarh Transport Undertaking (CTU),Agra to Chandigarh
+203,Chandigarh Transport Undertaking (CTU),Jammu (j and k) to Chandigarh
+204,Chandigarh Transport Undertaking (CTU),Chandigarh to Hisar (Haryana)
+205,Chandigarh Transport Undertaking (CTU),Chandigarh to Kathgodam
+206,Chandigarh Transport Undertaking (CTU),Haridwar to Chandigarh
+207,Chandigarh Transport Undertaking (CTU),Katra (jammu and kashmir) to Chandigarh
+208,Chandigarh Transport Undertaking (CTU),Baijnath to Chandigarh
+209,Chandigarh Transport Undertaking (CTU),Narnaul to Chandigarh
+210,Chandigarh Transport Undertaking (CTU),Chandigarh to Jawala Ji
+211,KSRTC (Kerala),Bangalore to Kozhikode
+212,KSRTC (Kerala),Kozhikode to Ernakulam
+213,KSRTC (Kerala),Kozhikode to Bangalore
+214,KSRTC (Kerala),Ernakulam to Kozhikode
+215,KSRTC (Kerala),Kozhikode to Mysore
+216,KSRTC (Kerala),Kozhikode to Thiruvananthapuram
+217,KSRTC (Kerala),Bangalore to Kalpetta (kerala)
+218,KSRTC (Kerala),Mysore to Kozhikode
+219,KSRTC (Kerala),Kalpetta (kerala) to Bangalore
+220,KSRTC (Kerala),Kozhikode to Thrissur
+221,KSRTC (Kerala),Thiruvananthapuram to Kozhikode
+222,KSRTC (Kerala),Bangalore to Kannur
+223,KSRTC (Kerala),Kozhikode to Kottayam
+224,KSRTC (Kerala),Kannur to Bangalore
+225,KSRTC (Kerala),Kottayam to Kozhikode
+226,KSRTC (Kerala),Thrissur to Kozhikode
+227,KSRTC (Kerala),Kozhikode to Kalpetta (kerala)
+228,KSRTC (Kerala),Coimbatore to Ooty
+229,KSRTC (Kerala),Kalpetta (kerala) to Kozhikode
